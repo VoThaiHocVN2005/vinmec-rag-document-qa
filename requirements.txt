@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+lxml
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+huggingface_hub==0.20.3
+tokenizers==0.15.2
+transformers==4.36.2
+sentence-transformers==2.2.2
+streamlit
+python-dotenv
+psutil
